@@ -7,6 +7,7 @@ print('Jannis WinOptimizer V0.1')  # Press Ctrl+F8 to toggle the breakpoint.
 
 print('If there are any Errors that say process not found, it means that the processes are not running.')
 print('The running processes will still be killed!')
+
 #time.sleep(5)
 #kill all edge and onedrive tasks
 #os.system('Taskkill /IM msedge.exe /F')
